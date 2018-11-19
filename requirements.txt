@@ -1,0 +1,6 @@
+imageio
+numpy
+sklearn
+matplotlib
+opencv-python
+scipy
